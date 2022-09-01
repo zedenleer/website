@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="dw_new_image_map" value="&lt;MAP name=&quot;navigatiebar&quot;&gt;&#xD;  &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;5,4,136,42&quot; HREF=&quot;../zedenleer/krant/krant.htm&quot; TARGET=&quot;_blank&quot;&gt;&#xD;  &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;10,43,215,73&quot; HREF=&quot;../zedenleer/speelplaats/speelplaats.htm&quot; TARGET=&quot;_blank&quot;&gt;&#xD;  &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;298,10,527,62&quot; HREF=&quot;../zedenleer/zedenleer.htm&quot;&gt;&#xD;  &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;604,4,736,43&quot; HREF=&quot;../zedenleer/links/links.htm&quot; TARGET=&quot;_blank&quot;&gt;&#xD;  &lt;AREA SHAPE=&quot;rect&quot; COORDS=&quot;606,43,833,79&quot; HREF=&quot;../zedenleer/gastenboek/gastenboek.htm&quot; TARGET=&quot;_blank&quot;&gt;&#xD;&lt;/MAP&gt;" />
+</info>
